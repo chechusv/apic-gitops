@@ -1,8 +1,8 @@
 openapi: 3.0.0
 info:
   version: 1.0.0
-  title: Users
-  x-ibm-name: users
+  title: Users Git Ops
+  x-ibm-name: users-gitops
 servers:
   - url: /users
 x-ibm-configuration:
