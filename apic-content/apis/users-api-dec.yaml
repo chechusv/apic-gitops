@@ -11,4 +11,3 @@ spec:
     apim:
       credentialsSecret: apim-credentials
       providerOrg: cp4i-demo-org
-      catalog: sandbox
