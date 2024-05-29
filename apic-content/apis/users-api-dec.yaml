@@ -7,7 +7,3 @@ spec:
   definition:
     external:
         url: https://raw.githubusercontent.com/chechusv/apic-gitops/main/apic-content/oas/users_1.0.0.yaml
-  share:
-    apim:
-      credentialsSecret: apim-credentials
-      providerOrg: cp4i-demo-org
