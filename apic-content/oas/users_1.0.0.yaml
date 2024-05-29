@@ -9,7 +9,7 @@ x-ibm-configuration:
   properties:
     target-url:
       value: http://jsonplaceholder.typicode.com/users
-      description: URL of the proxy policy
+      description: URL of the proxy policy changed
       encoded: false
   cors:
     enabled: true
